@@ -32,7 +32,7 @@
 
 ## 📫 **Connect With Me**  
 📘 GitHub: [aliaxam153](https://github.com/aliaxam153)  
-📝 LinkedIn: *Add your LinkedIn profile*  
-📧 Email: *Optional – if you want to share*  
+📝 LinkedIn: -
+📧 Email: axaamali@gmail.com  
 
 ---
