@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E86C1&height=200&section=header&text=Ali%20Azam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Research%20Officer%20%7C%20FPGA%20%7C%20RFSoC%20%7C%20Embedded%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E86C1&height=200&section=header&text=Ali%20Azam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20FPGA%20%7C%20RFSoC%20%7C%20Embedded%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Animated typing -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=750&lines=FPGA+%7C+RFSoC+%7C+Embedded+Linux+%7C+Deep+Learning;C+%7C+C%2B%2B+%7C+Python+%7C+LabVIEW+%7C+MATLAB;Hardware+%E2%86%92+Firmware+%E2%86%92+AI+Pipeline;Check+out+my+YouTube+%40albazishere!" alt="Typing SVG" />
