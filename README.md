@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E86C1&height=200&section=header&text=Ali%20Azam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MSEE%20Researcher%20%7C%20Embedded%20RF%20%7C%20Deep%20Learning&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E86C1&height=200&section=header&text=Ali%20Azam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Research%20Officer%20%7C%20FPGA%20%7C%20RFSoC%20%7C%20Embedded%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=650&lines=Building+hardware+%E2%86%92+firmware+%E2%86%92+deep+learning;RFSoC+%7C+Yocto+Linux+%7C+CycleGAN+%7C+GPR;Subsurface+Imaging+meets+Embedded+AI;Check+out+my+YouTube+%40albazishere!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=750&lines=Senior+Research+Officer+%40+NASTP;FPGA+%7C+RFSoC+%7C+LabVIEW+%7C+Xilinx+Vivado;Building+hardware+%E2%86%92+firmware+%E2%86%92+deep+learning;RFSoC+%7C+Yocto+Linux+%7C+CycleGAN+%7C+GPR;Subsurface+Imaging+meets+Embedded+AI;Check+out+my+YouTube+%40albazishere!" alt="Typing SVG" />
 
 <br/>
 
@@ -24,18 +24,22 @@
 
 ## ⚡ About Me
 
-I'm an **MS Electrical Engineering** researcher in Pakistan, working at the intersection of **embedded RF systems** and **deep learning for subsurface imaging**. My thesis constructs an end-to-end hardware-software stack for a **Stepped-Frequency Continuous Wave (SFCW) Ground Penetrating Radar** — from bare-metal RFSoC firmware through Yocto embedded Linux, up to a CycleGAN-based AI pipeline for signal denoising and target enhancement.
+I'm a **Senior Research Officer (Embedded Systems)** at **National Aerospace Science & Technology Park (NASTP)**, Islamabad, with over **6 years** of experience in FPGA design, RFSoC architecture, and high-speed data acquisition systems. I hold an **MEng in AI & Autonomous Systems** from NUST and a **BE in Electrical & Electronics Engineering** from Air University.
+
+My work spans the full stack — from bare-metal FPGA firmware and Software Defined Radio platforms (NI FlexRIO, NI USRP) through embedded Linux, up to AI/ML pipelines for real-time signal processing. Currently, I'm pursuing an **MSEE thesis** that fuses all of these layers into a single coherent system.
 
 | | |
 |---|---|
+| 🏢 **Role** | Senior Research Officer (Embedded Systems) @ NASTP |
 | 🎓 **Thesis** | CycleGAN-Based Ringing Removal & Hyperbola Enhancement Using an RFSoC-Based SFCW GPR System |
 | 🧑‍🏫 **Supervisor** | Dr. Usman Zabit |
-| 🔭 **Interests** | Radar signal processing · Subsurface imaging · Embedded AI · Autonomous SLAM |
-| 🛠️ **Current Stack** | Zynq UltraScale+ ZCU47DR · Yocto/EDF · Python · C/C++ |
+| 🎓 **Education** | MEng AI & Autonomous Systems — NUST · BE EEE — Air University |
+| 🔭 **Interests** | Radar signal processing · Subsurface imaging · Embedded AI · SDR · Autonomous SLAM |
+| 🛠️ **Current Stack** | Zynq UltraScale+ ZCU47DR · Yocto/EDF · LabVIEW · Python · C/C++ · Xilinx Vivado |
 
 ---
 
-## 🧠 Research Stack
+## 🧠 Research & Work Stack
 
 ```
 ╔══════════════════════════╦═══════════════════════╦══════════════════════════╗
@@ -44,8 +48,9 @@ I'm an **MS Electrical Engineering** researcher in Pakistan, working at the inte
 ║  ZCU47DR RFSoC           ║  Yocto / EDF Linux    ║  CycleGAN (PyTorch)      ║
 ║  LMK04828B Clock IC      ║  RFDC XCFG Driver     ║  Unpaired Denoising      ║
 ║  LMK2594 PLL Synthesizer ║  MTS Sync (Ethernet)  ║  Ringing Removal         ║
-║  SPI / UART / Ethernet   ║  Python Control Plane ║  Hyperbola Enhancement   ║
-║  IMU + GPS RTK (UM982)   ║  GPRMax Simulation    ║  B-scan Reconstruction   ║
+║  NI FlexRIO / NI USRP    ║  LabVIEW / DMA FIFO   ║  Hyperbola Enhancement   ║
+║  SPI / UART / Ethernet   ║  Python Control Plane ║  B-scan Reconstruction   ║
+║  IMU + GPS RTK (UM982)   ║  GPRMax Simulation    ║  Radar Signal Processing ║
 ╚══════════════════════════╩═══════════════════════╩══════════════════════════╝
 ```
 
@@ -60,10 +65,13 @@ I'm an **MS Electrical Engineering** researcher in Pakistan, working at the inte
 **Embedded & Hardware**
 
 ![Xilinx](https://img.shields.io/badge/Xilinx%20RFSoC-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Yocto](https://img.shields.io/badge/Yocto%20Linux-4B9CD3?style=for-the-badge&logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=ni&logoColor=black)
+![NI FlexRIO](https://img.shields.io/badge/NI%20FlexRIO-FFD700?style=for-the-badge&logo=ni&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **AI / Deep Learning**
 
@@ -85,6 +93,14 @@ I'm an **MS Electrical Engineering** researcher in Pakistan, working at the inte
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**Certifications**
+
+![Coursera](https://img.shields.io/badge/ML%3A%20Regression%20%26%20Classification-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![NI](https://img.shields.io/badge/LabVIEW%20Environment-FFD700?style=for-the-badge&logo=ni&logoColor=black)
+![NI](https://img.shields.io/badge/LabVIEW%20Sequential%20Programming-FFD700?style=for-the-badge&logo=ni&logoColor=black)
+![Coursera](https://img.shields.io/badge/FPGA%20Design%20for%20Embedded%20Systems-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Coursera](https://img.shields.io/badge/AI%20For%20Everyone-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
 </div>
 
 ---
@@ -96,7 +112,7 @@ I'm an **MS Electrical Engineering** researcher in Pakistan, working at the inte
 <td width="50%" valign="top">
 
 ### 🛰️ RFSoC-Based SFCW GPR System
-**`Thesis — Active`**
+**`MSEE Thesis — Active @ NASTP`**
 
 Full-stack GPR: bare-metal firmware → Yocto embedded Linux → CycleGAN deep learning pipeline.
 
@@ -114,6 +130,26 @@ Full-stack GPR: bare-metal firmware → Yocto embedded Linux → CycleGAN deep l
 </td>
 <td width="50%" valign="top">
 
+### 📡 High-Speed Data Acquisition Systems
+**`R&D @ RIMS (2018–2021)`**
+
+Led development and testing of high-speed data acquisition systems on **NI FlexRIO** & **NI USRP** platforms for radar and SDR applications.
+
+- **DMA FIFO** implementation in LabVIEW for high-throughput data transfer
+- **Peer-to-Peer Streaming** in NI FPGA for inter-device data communication
+- **Multithreading & Pipelining** for concurrent processing and efficiency
+- **TCP/IP & UDP** protocol integration for networked instrument control
+- Scalable, modular LabVIEW architecture with TDMS data logging
+
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFD700?style=flat-square&logo=ni&logoColor=black)
+![NI FlexRIO](https://img.shields.io/badge/-NI%20FlexRIO-FFD700?style=flat-square&logo=ni&logoColor=black)
+![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=xilinx&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🗺️ [ORB-SLAM3 on WSL2 + ROS Noetic](https://github.com/aliaxam153/ORB_SLAM3)
 
 Modified ORB-SLAM3 for frictionless setup on WSL-2 Ubuntu 20.04 with full ROS Noetic integration.
@@ -129,8 +165,37 @@ Modified ORB-SLAM3 for frictionless setup on WSL-2 Ubuntu 20.04 with full ROS No
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 </td>
+<td width="50%" valign="top">
+
+### 🏭 FPGA Design & Radar Systems
+**`Senior Research Officer @ NASTP (2021–Present)`**
+
+Designing complex digital systems for real-time radar transceiver and signal processor applications using industry-grade FPGA toolchains.
+
+- Complex digital system design with **Intel Quartus Prime** & **Xilinx Vivado**
+- **RFSoC optimization** for communications and radar systems
+- Radar transceiver & signal processor development with advanced DSP algorithms
+- Cross-functional collaboration on prototype integration and product definition
+
+![Xilinx](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=flat-square&logo=xilinx&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFD700?style=flat-square&logo=ni&logoColor=black)
+
+</td>
 </tr>
 </table>
+
+---
+
+## 💼 Experience Timeline
+
+```
+2024–Present  │ Senior Research Officer (Embedded Systems) — NASTP, Islamabad
+2024          │ Scientific Officer (Embedded) — NASTP, Islamabad
+2021–2024     │ Senior Design Engineer (FPGA) — NASTP, Islamabad
+2018–2021     │ R&D Engineer (High-Speed Data Acquisition) — RIMS, Islamabad
+2017          │ Internship Trainee (Radar Systems) — PAC Kamra
+```
 
 ---
 
@@ -144,6 +209,7 @@ Modified ORB-SLAM3 for frictionless setup on WSL-2 Ubuntu 20.04 with full ROS No
 | 🧱 **Structural Inspection** | Rebar mapping & concrete integrity assessment |
 | 💣 **Landmine Detection** | Humanitarian demining in post-conflict zones |
 | 🌱 **Precision Agriculture** | Soil moisture profiling & root structure mapping |
+| 📡 **Radar & SDR** | Radar transceiver design, signal processing & Software Defined Radio |
 
 </div>
 
@@ -187,6 +253,10 @@ Modified ORB-SLAM3 for frictionless setup on WSL-2 Ubuntu 20.04 with full ROS No
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/aliaxam">
+  <img src="https://img.shields.io/badge/LinkedIn-aliaxam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://github.com/aliaxam153">
   <img src="https://img.shields.io/badge/GitHub-aliaxam153-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
