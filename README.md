@@ -11,7 +11,7 @@
   <a href="https://www.credly.com/users/ali-azam.2fde4faa/badges">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="https://www.linkedin.com/in/aliazam153">
+  <a href="https://www.linkedin.com/in/aliaxam">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
