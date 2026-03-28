@@ -11,80 +11,47 @@
   <a href="https://www.credly.com/users/ali-azam.2fde4faa/badges">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="https://www.linkedin.com/in/aliaxam">
+  <a href="https://www.linkedin.com/in/aliazam153">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## Projects
+<h3 align="center">Repositories</h3>
 
-> Multi-domain work spanning 2+ categories.
+<p align="center">
+  <a href="categories/projects.md">
+    <img src="assets/card-projects.svg" alt="Projects" width="310"/>
+  </a>
+</p>
 
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| [SFCW-GPR-System](https://github.com/aliaxam153) | CycleGAN-based ringing removal & hyperbola enhancement on RFSoC SFCW GPR | `Python` `PyTorch` `LabVIEW` `C` `Xilinx` |
+<p align="center">
+  <a href="categories/deep-learning-cv.md">
+    <img src="assets/card-deep-learning-cv.svg" alt="Deep Learning / CV" width="310"/>
+  </a>
+  <a href="categories/embedded-fpga-rf.md">
+    <img src="assets/card-embedded-fpga-rf.svg" alt="Embedded / FPGA / RF" width="310"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <a href="categories/labview.md">
+    <img src="assets/card-labview.svg" alt="LabVIEW" width="310"/>
+  </a>
+  <a href="categories/slam-robotics.md">
+    <img src="assets/card-slam-robotics.svg" alt="SLAM / Robotics" width="310"/>
+  </a>
+</p>
 
-## Deep Learning / CV
-
-> Neural networks, image processing, computer vision tools.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| <!-- Add your DL/CV repos here --> | | |
-
----
-
-## Embedded / FPGA / RF
-
-> Firmware, SPI drivers, SDR tools, RF signal processing.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| <!-- Add your embedded repos here --> | | |
-
----
-
-## LabVIEW
-
-> Acquisition systems, DQMH modules, FPGA VIs, instrument drivers.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| <!-- Add your LabVIEW repos here --> | | |
-
----
-
-## SLAM / Robotics
-
-> Visual SLAM, sensor fusion, ROS packages.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| [ORB_SLAM3](https://github.com/aliaxam153/ORB_SLAM3) | ORB-SLAM3 setup guide for WSL2 Ubuntu 20.04 + ROS Noetic | `C++` `ROS` `OpenCV` |
-
----
-
-## Linux / DevOps
-
-> System setup, build environments, shell tooling.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| [ubuntu-gui-wsl](https://github.com/aliaxam153/ubuntu-gui-wsl) | XFCE & GNOME desktop setup via RDP on WSL2 Ubuntu | `Bash` `WSL2` |
-
----
-
-## Misc / Tools
-
-> Utilities, scripts, templates.
-
-| Repository | Description | Tech |
-|:-----------|:------------|:-----|
-| <!-- Add misc repos here --> | | |
+<p align="center">
+  <a href="categories/linux-devops.md">
+    <img src="assets/card-linux-devops.svg" alt="Linux / DevOps" width="310"/>
+  </a>
+  <a href="categories/misc-tools.md">
+    <img src="assets/card-misc-tools.svg" alt="Misc / Tools" width="310"/>
+  </a>
+</p>
 
 ---
 
