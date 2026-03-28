@@ -1,0 +1,6 @@
+<svg width="310" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="310" height="100" rx="12" fill="#3b82c4" opacity="0.85"/>
+  <text x="155" y="32" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#fff">Deep Learning / CV</text>
+  <text x="155" y="55" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="12" fill="#fff" opacity="0.85">Neural networks, image processing</text>
+  <text x="155" y="78" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="11" fill="#fff" opacity="0.65">Python · PyTorch · OpenCV · MATLAB</text>
+</svg>
