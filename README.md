@@ -1,122 +1,122 @@
-<div align="center">
+<h1 align="center">Ali Azam</h1>
 
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E86C1&height=200&section=header&text=Ali%20Azam&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=%20FPGA%20%7C%20RFSoC%20%7C%20Embedded%20AI&descAlignY=58&descSize=18&animation=fadeIn" />
+<p align="center">
+  <em>MS Electrical Engineering Researcher · RFSoC · GPR · Deep Learning</em>
+</p>
 
-<!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&width=750&lines=FPGA+%7C+RFSoC+%7C+Embedded+Linux+%7C+Deep+Learning;C+%7C+C%2B%2B+%7C+Python+%7C+LabVIEW+%7C+MATLAB;Hardware+%E2%86%92+Firmware+%E2%86%92+AI+Pipeline;Check+out+my+YouTube+%40albazishere!" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/aliaxam153">
-  <img src="https://komarev.com/ghpvc/?username=aliaxam153&label=Profile+Views&color=2E86C1&style=for-the-badge" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Pakistan-%F0%9F%87%B5%F0%9F%87%B0-1a3a5c?style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Research%20Active-2E86C1?style=for-the-badge&logo=statuspage&logoColor=white" />
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.youtube.com/@albazishere">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.credly.com/users/ali-azam.2fde4faa/badges">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aliazam153">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ About Me
+## Projects
 
-Engineer working at the intersection of **embedded systems**, **FPGA/RFSoC**, and **deep learning**. I write code across the full stack — from bare-metal C drivers and LabVIEW FPGA targets through embedded Linux, up to Python-based AI/ML pipelines.
+> Multi-domain work spanning 2+ categories.
 
-- 🔧 Embedded firmware in **C/C++** (SPI, UART, Ethernet, DMA)
-- 🟡 FPGA development in **LabVIEW** and **Xilinx Vivado**
-- 🐍 ML/DL pipelines in **Python** (PyTorch, NumPy, OpenCV)
-- 🐧 Embedded Linux with **Yocto / EDF**
-- 🤖 Robotics & SLAM in **C++** with **ROS Noetic**
-- 📡 SDR programming on **NI FlexRIO** & **NI USRP**
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| [SFCW-GPR-System](https://github.com/aliaxam153) | CycleGAN-based ringing removal & hyperbola enhancement on RFSoC SFCW GPR | `Python` `PyTorch` `LabVIEW` `C` `Xilinx` |
 
 ---
 
-## 🛠️ Languages & Tools
+## Deep Learning / CV
 
-<div align="center">
+> Neural networks, image processing, computer vision tools.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFD700?style=for-the-badge&logo=ni&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
-![Yocto](https://img.shields.io/badge/Yocto%20Linux-4B9CD3?style=for-the-badge&logo=linux&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS%20Noetic-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| <!-- Add your DL/CV repos here --> | | |
 
 ---
 
-## 📊 GitHub Stats
+## Embedded / FPGA / RF
 
-<div align="center">
+> Firmware, SPI drivers, SDR tools, RF signal processing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=aliaxam153&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86C1&icon_color=2E86C1&bg_color=0D1117&text_color=c9d1d9" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aliaxam153&theme=tokyonight&hide_border=true&ring=2E86C1&fire=FF6B35&currStreakLabel=2E86C1&background=0D1117&sideLabels=c9d1d9&dates=c9d1d9" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaxam153&layout=compact&theme=tokyonight&hide_border=true&title_color=2E86C1&bg_color=0D1117&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=aliaxam153&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliaxam153&bg_color=0D1117&color=2E86C1&line=2E86C1&point=FF6B35&area=true&hide_border=true" />
-
-</div>
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| <!-- Add your embedded repos here --> | | |
 
 ---
 
-## 📺 YouTube
+## LabVIEW
 
-<div align="center">
+> Acquisition systems, DQMH modules, FPGA VIs, instrument drivers.
 
-<a href="https://www.youtube.com/@albazishere">
-  <img src="https://img.shields.io/badge/YouTube-%40albazishere-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| <!-- Add your LabVIEW repos here --> | | |
 
 ---
 
-## 🤝 Connect
+## SLAM / Robotics
 
-<div align="center">
+> Visual SLAM, sensor fusion, ROS packages.
 
-<a href="https://www.linkedin.com/in/aliaxam">
-  <img src="https://img.shields.io/badge/LinkedIn-aliaxam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/aliaxam153">
-  <img src="https://img.shields.io/badge/GitHub-aliaxam153-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@albazishere">
-  <img src="https://img.shields.io/badge/YouTube-albazishere-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.credly.com/users/ali-azam.2fde4faa/badges">
-  <img src="https://img.shields.io/badge/Credly-Verified%20Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
-</a>
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| [ORB_SLAM3](https://github.com/aliaxam153/ORB_SLAM3) | ORB-SLAM3 setup guide for WSL2 Ubuntu 20.04 + ROS Noetic | `C++` `ROS` `OpenCV` |
 
-<br/><br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,50:1a3a5c,100:0D1117&height=120&section=footer&animation=fadeIn" />
+## Linux / DevOps
 
-</div>
+> System setup, build environments, shell tooling.
+
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| [ubuntu-gui-wsl](https://github.com/aliaxam153/ubuntu-gui-wsl) | XFCE & GNOME desktop setup via RDP on WSL2 Ubuntu | `Bash` `WSL2` |
+
+---
+
+## Misc / Tools
+
+> Utilities, scripts, templates.
+
+| Repository | Description | Tech |
+|:-----------|:------------|:-----|
+| <!-- Add misc repos here --> | | |
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aliaxam153&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aliaxam153&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aliaxam153&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" width="420"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aliaxam153&theme=github-dark-blue&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aliaxam153&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=aliaxam153&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="420"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaxam153&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaxam153&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliaxam153&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="360"/>
+  </picture>
+</p>
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aliaxam153&theme=github-dark&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aliaxam153&theme=github-light&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliaxam153&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  </picture>
+</p>
