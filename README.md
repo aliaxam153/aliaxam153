@@ -14,9 +14,11 @@
   <a href="https://www.linkedin.com/in/aliazam153">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://forums.ni.com/t5/user/viewprofilepage/user-id/735862">
-    <img src="https://img.shields.io/badge/NI-29BA80?style=flat&logo=ni&logoColor=white" alt="NI"/>
-  </a>
+ <a href="https://forums.ni.com/t5/user/viewprofilepage/user-id/735862">
+  <img src="https://images.credly.com/size/200x200/images/8a9a5855-b013-46fb-a4db-bbb5470725ba/blob.png"
+       alt="NI"
+       height="28"/>
+</a>
 </p>
 
 ---
