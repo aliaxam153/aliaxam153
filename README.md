@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/aliazam153">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://forums.ni.com/t5/user/viewprofilepage/user-id/735862">
+    <img src="https://img.shields.io/badge/NI-29BA80?style=flat&logo=linkedin&logoColor=white" alt="NI"/>
+  </a>
 </p>
 
 ---
